@@ -61,7 +61,6 @@ ul,ol,menu{
 
 .col-33{
     width: calc(4 * 100% / 12);
-    border: 1px solid black;
     padding: 10px;
 }
  
@@ -94,8 +93,13 @@ ul,ol,menu{
     color: white;
 }
 
+.info-item{
+    display: inline;
+    font-size: 10px;
+    font-weight: 100;
+}
 .title-footer{
-
+margin-left: 0;
 }
 
 
